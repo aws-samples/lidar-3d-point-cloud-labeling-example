@@ -1,6 +1,6 @@
 ##  Lidar 3D point cloud labeling with Velodyne Lidar sensor in SageMaker GroundTruth
 
-Associated blog: (TBD)
+Associated blog: https://aws.amazon.com/blogs/machine-learning/lidar-3d-point-cloud-labeling-with-velodyne-lidar-sensor-in-amazon-sagemaker-ground-truth/
 
 This notebook will demonstrate how to pre-process LiDAR sensor data to create an object tracking labeling job with Sensor fusion in SageMaker Ground Truth.
 
